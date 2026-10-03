@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of ssport/s.** Not for installation: use [Packagist](https://packagist.org/packages/ssport/s) or the [upstream repository](https://github.com/ssangyongsportsorg/flarum-ext-oauth-clerk).
 
-**0** versions archived · Latest: [`1`](https://github.com/flarchive/ssport-s/tree/archive/v1) · License: `MIT` · Flarum: `^1.3.1`
+**1** versions archived · Latest: [`1`](https://github.com/flarchive/ssport-s/tree/archive/v1) · License: `MIT` · Flarum: `^1.3.1`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1` | 2024-07-27 | `^1.3.1` | [Browse](https://github.com/flarchive/ssport-s/tree/archive/v1) |
 
 Catalog entry: [packages/ssport-s.json](https://github.com/flarchive/archive-index/blob/main/packages/ssport-s.json)
 
